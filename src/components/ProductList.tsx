@@ -37,3 +37,4 @@ const styles = StyleSheet.create({
   name: { color: '#fff', fontSize: 16 },
   price: { color: '#4da3ff', fontSize: 16, fontWeight: '600' },
 });
+const broken = {{{;
